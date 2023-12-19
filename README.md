@@ -2,12 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-      .socials{
-        display:flex;
-        padding:1rem;
-      }
-  </style>
+
 </head>
 <body>
   <h1 style=" font-size:30px;">👋 Olá, sou o @EvanderT</h1>
